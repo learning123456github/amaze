@@ -21,7 +21,9 @@ public class AmazonExampleTest {
 	public void test1() {
 		url = "http://www.amazon.com";
 		driver.get(url);
+		System.out.println("welcome");
 		System.out.println("hello");
 		Actions actions = new Actions(driver);
+		System.out.println("HubGit83 says hello");
 	}
 }
