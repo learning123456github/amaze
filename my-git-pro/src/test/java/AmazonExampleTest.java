@@ -24,6 +24,10 @@ public class AmazonExampleTest {
 		System.out.println("welcome");
 		System.out.println("hello");
 		Actions actions = new Actions(driver);
+
 		System.out.println("HubGit83 says hello");
+
+		System.out.println("hello2");
+
 	}
 }
